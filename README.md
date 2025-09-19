@@ -20,8 +20,3 @@ I'm excited to share that I've successfully developed a Weather Forecast App as 
 This project helped me strengthen my skills in API handling, UI design, and Android development. Looking forward to exploring more real-world apps!  
 
 Feel free to give feedback or suggestions 🙌  
-
- 
-
-
-Let me know if you'd like a visual preview or a demo video caption too!
